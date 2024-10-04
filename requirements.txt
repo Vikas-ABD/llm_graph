@@ -1,0 +1,9 @@
+langgraph
+torch
+ultralytics
+opencv-python
+langchain-groq
+langchain-core
+langchain-ollama
+streamlit
+langchain-fireworks
